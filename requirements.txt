@@ -1,0 +1,4 @@
+joblib==0.16.0
+Django==3.0.3
+nltk==3.5
+django-cors-headers
